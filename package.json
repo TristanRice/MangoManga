@@ -1,0 +1,26 @@
+{
+  "name": "mangomanga",
+  "version": "1.0.0",
+  "description": "Why the fuck am I doing this to myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TristanRice/MangoManga.git"
+  },
+  "keywords": [
+    "Mango",
+    "Manga"
+  ],
+  "author": "TristanRice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TristanRice/MangoManga/issues"
+  },
+  "homepage": "https://github.com/TristanRice/MangoManga#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
